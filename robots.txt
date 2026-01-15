@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinoceuta-online.com/
+Sitemap: https://casinoceuta-online.com/sitemap.xml
